@@ -1,0 +1,32 @@
+CYBERCRIME AWARENESS CASE STUDY
+Topic: UPI / Online Payment Fraud
+
+WHAT IS UPI FRAUD?
+UPI (Unified Payments Interface) fraud is a type of cybercrime where
+scammers trick victims into revealing their UPI PIN, OTP, or account
+details in order to steal money directly from their bank accounts.
+
+HOW IT TYPICALLY HAPPENS (Step-by-Step):
+1. The victim receives a call or WhatsApp message from someone
+   posing as a bank official, customer care agent, or even a friend.
+2. The scammer creates urgency, claiming the victim's account will
+   be blocked, or that they have received a payment and need to
+   "collect" it.
+3. The victim is sent a UPI collect request or a fake link that
+   looks like an official bank page.
+4. The victim enters their UPI PIN thinking they are receiving money
+   but they are actually approving a payment out of their account.
+5. Money is instantly debited and transferred to the scammer's account.
+6. The scammer disconnects and becomes unreachable.
+
+WHO IS USUALLY TARGETED?
+First-time UPI users and college students
+Senior citizens unfamiliar with digital payments
+Online shoppers on platforms like OLX or Facebook Marketplace
+Anyone expecting a refund or payment
+
+CONSEQUENCES:
+Immediate financial loss (often thousands of rupees)
+No guaranteed recovery as UPI transactions are instant
+Emotional distress and loss of trust in digital payments
+In some cases, victims take loans to recover losses
